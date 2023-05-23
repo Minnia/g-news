@@ -1,0 +1,1 @@
+{"version":3,"file":"news.routes.js","sourceRoot":"","sources":["../../../server/news/news.routes.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA,sDAA8B;AAC9B,kEAAoD;AACpD,MAAM,UAAU,GAAG,iBAAO,CAAC,MAAM,EAAE,CAAC;AAEpC,UAAU,CAAC,GAAG,CAAC,GAAG,EAAE,cAAc,CAAC,OAAO,CAAC,CAAC;AAC5C,UAAU,CAAC,GAAG,CAAC,SAAS,EAAE,cAAc,CAAC,cAAc,CAAC,CAAC;AAEzD,kBAAe,UAAU,CAAC"}
